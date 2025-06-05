@@ -1,0 +1,1 @@
+Email users and organizations are frequently targeted with spam messages, including scams, phishing attacks, and unwanted ads. Manual filtering is inefficient and unreliable. A machine learning–based email classifier can automatically identify and filter spam, saving time and enhancing cybersecurity.
